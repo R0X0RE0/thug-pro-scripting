@@ -92,6 +92,10 @@ Eww, ~~Power~~Rotten~~Shell~~Hell. I agree. Actually, I hate Microsoft\**wildcar
 
 If you get roq.exe and PreTool.exe running on Linux through wine (probably extremely likely), for the love of god, just rewrite my ~~Power~~Rotten~~Shell~~Hell scripts or I won't sleep at night.
 
+## RoxNoAnne's Comment to Above
+
+I hate Microsoft too. It's why I switched. I am willing to rewrite these stinky PowerShell scripts into awesome Bash scripts! Wish me luck.
+
 ## Credit
 * http://www.mediafire.com/file/nszrchf4glxd364/PreTool1_1.zip by Robert Archibald aka %.gone. Found here https://thmods.com/forum/viewtopic.php?t=835
 * http://www.mediafire.com/file/dr4ghaaica9l1ir/QuazzScriptTools.zip contains roq.exe by morten1337, a modified version of Roq's https://thmods.com/mod_tools/QB2.1.exe which in itself is a modified version of Blub's https://thmods.com/mod_tools/qb.zip which adds e.g. automatic checksum name generation. Uploaded by Quazz, also found here https://thmods.com/forum/viewtopic.php?t=835
